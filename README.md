@@ -1,4 +1,4 @@
-Facetrix
+
 Facetrix is an advanced facial recognition attendance system designed to streamline the process of tracking and managing attendance using computer vision technology. Built with Python, OpenCV, and machine learning algorithms, Facetrix offers a user-friendly interface and robust performance for various environments, such as educational institutions, corporate offices, and events.
 
 Features
